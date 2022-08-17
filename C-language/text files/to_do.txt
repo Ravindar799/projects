@@ -1,0 +1,31 @@
+
+    1) Write a program to print 2nd greatest of three numbers.
+
+    2) Write a C program to check whether a number is negative, positive or zero.
+
+    3) Write a C program to check whether a number is divisible by 5 and 11 or not.
+
+    4) Write a C program to check whether a number is even or odd.
+
+    5) Write a C program to input week number and print week day.
+
+    6) Write a C program to input marks of five subjects Physics, Chemistry, 
+    Biology, Mathematics and Computer.
+    
+    Calculate percentage and grade according to following:
+        Percentage >= 90% : Grade A
+        Percentage >= 80% : Grade B
+        Percentage >= 70% : Grade C
+        Percentage >= 60% : Grade D
+        Percentage >= 40% : Grade E
+        Percentage < 40% : Grade F
+    
+    7) Write a C program to check whether a year is leap year or not.
+
+
+============================================
+Assignment:
+ ASCII code in C programming.
+ Typeconversion and Typecasting in C programming.
+
+    
